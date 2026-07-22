@@ -72,6 +72,7 @@
     }
 
     counter-reset: line;
+    white-space: pre-wrap;
 
     span.line {
       &:before {
